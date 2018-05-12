@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '712'
     url: http://www.gutenberg.org/2009/agents/712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29023#Treasure-Valley
 gutenberg_issued: '2009-06-03'
 gutenberg_type: Text
 identifiers:
